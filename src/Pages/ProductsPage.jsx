@@ -6,7 +6,6 @@ import Loader from "../components/Loader";
 import { useProducts } from "../context/ProductContext";
 
 import {
-  createQueryObject,
   filterProducts,
   getInitialQuery,
   searchProducts,
